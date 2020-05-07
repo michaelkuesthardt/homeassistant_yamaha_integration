@@ -1,0 +1,1 @@
+# homeassistant_yamaha_integration
